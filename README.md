@@ -58,7 +58,7 @@ This project is a comprehensive e-commerce platform developed using the MERN sta
 ## Project Structure
 
 ```
-/ecommerce-platform
+/Pizza_Shop
 │
 ├── /backend
 │   ├── /config
@@ -114,7 +114,7 @@ This project is a comprehensive e-commerce platform developed using the MERN sta
 2. **Backend Setup**:
    - Navigate to the backend directory:
      ```bash
-     cd backend
+     cd server
      ```
    - Install dependencies:
      ```bash
@@ -137,7 +137,7 @@ This project is a comprehensive e-commerce platform developed using the MERN sta
 3. **Frontend Setup**:
    - Navigate to the frontend directory:
      ```bash
-     cd ../frontend
+     cd ../client
      ```
    - Install dependencies:
      ```bash
