@@ -107,8 +107,7 @@ This project is a comprehensive e-commerce platform developed using the MERN sta
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/ecommerce-platform.git
-   cd ecommerce-platform
+   git clone https://github.com/anaaCode/Mern-_Pizza_Shop.git
    ```
 
 2. **Backend Setup**:
